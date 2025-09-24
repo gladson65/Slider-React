@@ -1,1 +1,1 @@
-# Using Popular Library -> react-slick
+# Using Popular Library -> react-slick & slick-carousel
